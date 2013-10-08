@@ -49,7 +49,7 @@ echo ""
 ./bootGemstone_setup
 #
 echo ""
-./lighttpd_setup
+#./lighttpd_setup
 #
 echo ""
 ./daemontools_start
